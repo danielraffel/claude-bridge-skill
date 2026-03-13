@@ -10,7 +10,7 @@ You can install this skill into Codex, Gemini CLI, Cursor, GitHub Copilot, OpenC
 npx skills add https://github.com/danielraffel/claude-bridge-skill --skill claude-bridge
 ```
 
-If you get the error `npx: command not found`, you need to [install Node first](https://nodejs.org/en/download)
+If you get the error `npx: command not found`, you need to [install Node first](https://nodejs.org/en/download).
 
 When using `npx`, the installer will guide you through which agents to install into and whether the skill should be installed for just the current project or for all your projects.
 
