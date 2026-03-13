@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Bridge"
+  short_description: "Ask the local Claude CLI for an answer or emit a Claude-ready prompt package"
+  default_prompt: "Use claude-bridge when you want a Claude second opinion, structured Claude output, or a Claude-ready prompt package."
