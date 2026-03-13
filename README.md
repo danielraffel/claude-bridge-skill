@@ -7,13 +7,13 @@ Portable agent skill for non-Claude hosts that want to call the local Claude CLI
 With the open `skills` installer:
 
 ```bash
-npx skills add <repo-url>
+npx skills add https://github.com/danielraffel/claude-bridge-skill
 ```
 
 With Gemini CLI:
 
 ```bash
-gemini skills install <repo-url>
+gemini skills install https://github.com/danielraffel/claude-bridge-skill
 ```
 
 ## Notes
