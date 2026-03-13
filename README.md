@@ -39,7 +39,7 @@ Use claude-bridge to turn this ticket into a Claude-ready prompt package.
 
 - Requires local `claude` CLI access and authentication.
 - Intended for Codex, Gemini CLI, Cursor, GitHub Copilot, OpenCode, and similar hosts.
-- Not intended for Claude Code bridge calls.
+- Not intended for Claude Code bridge calls (eg don't install the skill into Claude!)
 
 ## License
 
